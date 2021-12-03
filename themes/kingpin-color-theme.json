@@ -70,7 +70,7 @@
         "terminal.foreground": "#8F8F8F",
         "terminal.ansiYellow": "#ff0000",
         "terminal.ansiBrightYellow": "#FFC46B",
-        "terminal.ansiWhite": "#9E78FF",
+        "terminal.ansiWhite": "#FFFFFF",
         "terminal.ansiBrightBlack": "#4F4F4F",
         "terminal.ansiMagenta": "#9E78FF",
         "terminal.ansiGreen": "#A5FF14",
@@ -83,6 +83,7 @@
         "terminal.selectionBackground": "#FFFFFF",
         "terminalCursor.background": "#0F0F0F",
         "terminalCursor.foreground": "#8F8F8F",
+        "editor.selectionBackground": "#1F1F1F"
         
 	},
 	"tokenColors": [
@@ -176,18 +177,9 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#FFC46B"
+				"foreground": "#A5FF14"
 			}
 		},
-        {
-            "name": "Function",
-            "scope": [
-				"entity.name.function",
-            ],
-            "settings": {
-				"foreground": "#FFC46B"
-            }
-        },
 		{
 			"name": "Block Level Variables",
 			"scope": [
