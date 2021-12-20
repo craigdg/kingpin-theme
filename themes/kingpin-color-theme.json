@@ -39,6 +39,8 @@
         "titleBar.inactiveBackground": "#0F0F0F",
         "titleBar.border": "#1F1F1F",
         "statusBar.background": "#0F0F0F",
+        "statusBar.debuggingBackground": "#9E78FF",
+        "debugToolBar.background": "#0F0F0F",
         "textLink.foreground": "#9F9F9F",
         "textLink.activeForeground": "#FFFFFF",
         "statusBar.border": "#1F1F1F",
@@ -68,7 +70,7 @@
         "editorHoverWidget.background": "#1F1F1F",
         "editorHoverWidget.foreground": "#FFFFFF",
         "terminal.foreground": "#9F9F9F",
-        "terminal.ansiYellow": "#ff0000",
+        "terminal.ansiYellow": "#FFC46B",
         "terminal.ansiBrightYellow": "#FFC46B",
         "terminal.ansiWhite": "#FFFFFF",
         "terminal.ansiBrightBlack": "#5F5F5F",
@@ -235,7 +237,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
             ],
             "settings": {
-				"foreground": "#FF473B"
+				"foreground": "#A5FF14"
 			}
         },
 		{
